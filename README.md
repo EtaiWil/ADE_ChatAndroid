@@ -13,9 +13,9 @@ Users can authenticate themselves by entering their credentials.
 
 ![](photos/signIn.png)
 
-<br>
-<br> 
+
 ### Registration screen
+
 
 New users can create an account by providing the necessary details.
 
