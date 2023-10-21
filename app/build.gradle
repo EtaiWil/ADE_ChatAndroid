@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.go_chat_android"
+        applicationId "com.example.ADE_Chat"
         minSdk 21
         targetSdk 32
         versionCode 1

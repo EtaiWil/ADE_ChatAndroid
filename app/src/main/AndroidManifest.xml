@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.go_chat_android">
+    package="com.example.ADE_Chat">
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
@@ -10,7 +10,7 @@
 
 
     <application
-        android:name=".MyApplication"
+        android:name="com.example.ADE_Chat.MyApplication"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -23,11 +23,11 @@
         android:requestLegacyExternalStorage="true"
         tools:targetApi="31">
         <activity
-            android:name=".activities.SettingsActivity"
+            android:name="com.example.ADE_Chat.activities.SettingsActivity"
             android:exported="false" />
 
         <service
-            android:name=".MyService"
+            android:name="com.example.ADE_Chat.MyService"
             android:enabled="true"
             android:exported="true">
             <intent-filter>
@@ -36,19 +36,19 @@
         </service>
 
         <activity
-            android:name=".activities.AddContactActivity"
+            android:name="com.example.ADE_Chat.activities.AddContactActivity"
             android:exported="false" />
         <activity
-            android:name=".lists.ContactList"
+            android:name="com.example.ADE_Chat.lists.ContactList"
             android:exported="false" />
         <activity
-            android:name=".activities.RegisterActivity"
+            android:name="com.example.ADE_Chat.activities.RegisterActivity"
             android:exported="false" />
         <activity
-            android:name=".lists.MessageList"
+            android:name="com.example.ADE_Chat.lists.MessageList"
             android:exported="false" />
         <activity
-            android:name=".activities.MainActivity"
+            android:name="com.example.ADE_Chat.activities.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
