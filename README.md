@@ -10,10 +10,13 @@ The Chat-Application is a web-based chatbot that provides a user-friendly interf
 
 ### Login screen:
 Users can authenticate themselves by entering their credentials.
+
 ![](photos/signIn.png)
+
 <br>
 <br> 
 ### Registration screen
+
 New users can create an account by providing the necessary details.
 
 
