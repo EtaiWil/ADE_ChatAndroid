@@ -58,7 +58,7 @@ https://github.com/EtaiWil/ADE_ChatAndroid.git
 
 
 
-## Built With
+## Built with
 
 Frontend (Android Client)
 
@@ -78,8 +78,7 @@ Frontend (Android Client)
 ## Authors
 
 **Etai Wilentzik**
-* [Profile](https://github.com/EtaiWilentzik )
-  <br>
+- [Profile](https://github.com/EtaiWilentzik )
 
 **Daniel Singer**
 - [Profile](https://github.com/DanielSInger1 )
