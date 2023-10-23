@@ -4,8 +4,7 @@
 
 
 ## General Information
-This project is an application that  allows users to register, log in, and engage in chat conversations with other contacts.
-
+This project is an application that allows users to register, log in, and engage in chat conversations with other contacts.
 The Chat-Application is a web-based chatbot that provides a user-friendly interface for seamless communication. It offers the following features:
 
 ### Login screen:
@@ -51,11 +50,11 @@ https://github.com/EtaiWil/ADE_ChatAndroid.git
 #### To start the server
 1. Navigate to the folder where you cloned the repository 
 2. Navigate to the folder of the server by executing the command ``` cd Server ```
-3. execute the command ``` npm install ``` to download node_modules folder for the server.
-4. execute the command ``` npm start ``` to start the server.
+3. Execute the command ``` npm install ``` to download node_modules folder for the server.
+4. Execute the command ``` npm start ``` to start the server.
 
-#### To start the android app:
-1.Start the app on the emulator by pressing the green button.
+#### To start the Android app:
+1. Start the app on the emulator by pressing the green button.
 
 
 
@@ -79,7 +78,7 @@ Frontend (Android Client)
 ## Authors
 
 **Etai Wilentzik**
-* [Profile](https://github.com/EtaiWil )
+* [Profile](https://github.com/EtaiWilentzik )
   <br>
 
 **Daniel Singer**
@@ -88,7 +87,7 @@ Frontend (Android Client)
 **Adi Tal**
 - [Profile](https://github.com/adital2512 )
 
-### bouns fact ### 
+### Bouns fact ### 
 ADE chat is an acronym of Adi Daniel Etai 😀
 
 
